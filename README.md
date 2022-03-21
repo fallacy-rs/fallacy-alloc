@@ -11,7 +11,7 @@ A library for fallible allocation.
 
 ## Rust Version
 
-This version of `fallacy-alloc` requires Rust 1.56 or later.
+This version of `fallacy-alloc` requires Rust 1.57 or later.
 
 ## License
 
